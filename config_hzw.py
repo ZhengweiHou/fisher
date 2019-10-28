@@ -1,3 +1,6 @@
 __author__ = 'sirius'
 
-DEBUG=True
+DEBUG=False
+
+HOST_IP='0.0.0.0'
+HOST_PORT=8080

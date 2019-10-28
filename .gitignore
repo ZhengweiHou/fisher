@@ -1,6 +1,9 @@
 venv
 .idea
 *.pyc
+dist
+build
+*.spec
 __pycache__
 
 ### VisualStudioCode ###
